@@ -4,8 +4,8 @@
 
 This code is a simplified step-by-step implement for better understanding of the submitted manuscript: **Physics-informed Bayesian Inference for Milling Stability Analysis**.  Please contact cgx@nuaa.edu.cn if there is any mistake or confusion. 
 
-**1**. Due to the randomness of the sampling, the results of each run may be slight different.
-You can run the `step5_final.py` to get the result (Fig. 7. in the manuscript).
+**1**. Due to the randomness of the sampling, the results of each run may be slightly different.
+You can run the `step5_final.py` to get the result (Fig. 8. in the manuscript).
 
 ![Fig_-_David.png](ResultDisplay/Fig-David.svg)
 
